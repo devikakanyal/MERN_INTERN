@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/MERN_INTERN/static/css/main.5cd9dd9b.chunk.css",
+    "main.js": "/MERN_INTERN/static/js/main.0dda064e.chunk.js",
+    "main.js.map": "/MERN_INTERN/static/js/main.0dda064e.chunk.js.map",
+    "runtime-main.js": "/MERN_INTERN/static/js/runtime-main.01f9d623.js",
+    "runtime-main.js.map": "/MERN_INTERN/static/js/runtime-main.01f9d623.js.map",
+    "static/css/2.ed439b8d.chunk.css": "/MERN_INTERN/static/css/2.ed439b8d.chunk.css",
+    "static/js/2.c1231c01.chunk.js": "/MERN_INTERN/static/js/2.c1231c01.chunk.js",
+    "static/js/2.c1231c01.chunk.js.map": "/MERN_INTERN/static/js/2.c1231c01.chunk.js.map",
+    "index.html": "/MERN_INTERN/index.html",
+    "precache-manifest.3d2ab8dd67214b13b8639829b95a2818.js": "/MERN_INTERN/precache-manifest.3d2ab8dd67214b13b8639829b95a2818.js",
+    "service-worker.js": "/MERN_INTERN/service-worker.js",
+    "static/css/2.ed439b8d.chunk.css.map": "/MERN_INTERN/static/css/2.ed439b8d.chunk.css.map",
+    "static/css/main.5cd9dd9b.chunk.css.map": "/MERN_INTERN/static/css/main.5cd9dd9b.chunk.css.map",
+    "static/js/2.c1231c01.chunk.js.LICENSE.txt": "/MERN_INTERN/static/js/2.c1231c01.chunk.js.LICENSE.txt",
+    "static/media/resume.pdf": "/MERN_INTERN/static/media/resume.f5641d1f.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.01f9d623.js",
+    "static/css/2.ed439b8d.chunk.css",
+    "static/js/2.c1231c01.chunk.js",
+    "static/css/main.5cd9dd9b.chunk.css",
+    "static/js/main.0dda064e.chunk.js"
+  ]
+}
