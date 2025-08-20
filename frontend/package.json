@@ -1,12 +1,12 @@
 {
-  "name": "nachiket-portfolio",
-  "description": "nachiket-portfolio.",
-  "homepage": "http://nachiket-trivedi.github.io",
+  "name": "mern-portfolio",
+  "description": "mern-portfolio.",
+  "homepage": "http://devikakanyal.github.io/MERN_INTERN",
   "version": "0.1.0",
   "private": true,
   "author": {
-    "name": "Nachiket Trivedi",
-    "email": "nachiket5197@gmail.com"
+    "name": "devika kanyal",
+    "email": "devikakanyal04@gmail.com"
   },
   "dependencies": {
     "axios": "^0.19.2",
