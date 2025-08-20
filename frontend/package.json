@@ -1,7 +1,12 @@
 {
   "name": "mern-portfolio",
   "description": "mern-portfolio.",
-  "homepage": "http://devikakanyal.github.io/MERN_INTERN",
+  "homepage": "http://devikakanyal.github.io/MERN_INTERN",  
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/devikakanyal/MERN_INTERN.git"
+  },
+
   "version": "0.1.0",
   "private": true,
   "author": {
@@ -31,7 +36,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "set NODE_OPTIONS=--openssl-legacy-provider && react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "custom-deploy": "node deploy.js"
